@@ -8,7 +8,7 @@ E-commerce Helper Extension is a Chrome extension designed to enhance the shoppi
 - Tooltip provides concise explanations 📝 for technical terms, aiding user understanding 🤓.
 
 ## 📸 Demo
-![E-commerce Helper Demo](demo.gif) *(Replace with a GIF or image showing the extension in action)*
+![image](https://github.com/user-attachments/assets/b6640534-7a50-412e-8474-0d8c904e6812)
 
 ## ⚙️ Installation
 1. **Clone the repository**:
